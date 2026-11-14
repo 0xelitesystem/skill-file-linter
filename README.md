@@ -1,8 +1,10 @@
-# claude-skills-validator
+# skill-file-linter
+
+Formerly claude-skills-validator. The old repository address redirects here. The old live page address forwards to the new one.
 
 Lint a Claude Skill `SKILL.md` file for spec compliance and triggering quality. Browser-only, single HTML file.
 
-**Live demo:** https://0xelitesystem.github.io/claude-skills-validator/
+**Live demo:** https://0xelitesystem.github.io/skill-file-linter/
 
 ## Why this exists
 
@@ -19,7 +21,7 @@ It is one HTML file that runs in your browser with no tracking, released under t
 
 ## Use
 
-Open `index.html` in any browser. Or visit the hosted version at `https://0xelitesystem.github.io/claude-skills-validator/` once GitHub Pages is enabled.
+Open `index.html` in any browser. Or visit the hosted version at `https://0xelitesystem.github.io/skill-file-linter/` once GitHub Pages is enabled.
 
 1. Paste your SKILL.md into the textarea.
 2. Click Validate (or Cmd/Ctrl+Enter from the textarea).
@@ -90,8 +92,8 @@ Part of a catalog of single-file browser tools and plain-language references, al
 ## Run locally
 
 ```
-git clone https://github.com/0xelitesystem/claude-skills-validator
-cd claude-skills-validator
+git clone https://github.com/0xelitesystem/skill-file-linter
+cd skill-file-linter
 ```
 
 Open `index.html` in a browser, or serve the folder with `python -m http.server 8000` and visit http://localhost:8000.
