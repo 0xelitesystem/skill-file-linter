@@ -111,6 +111,6 @@ Independent project. Not affiliated with, endorsed by, or sponsored by Anthropic
 ## Related
 
 - [claude-skills-templates](https://github.com/0xelitesystem/claude-skills-templates), five reference Skill patterns
-- [prompt-templates](https://github.com/0xelitesystem/prompt-templates), production prompts targeting LLM failure modes
+- [failure-mode-prompts](https://github.com/0xelitesystem/failure-mode-prompts), production prompts targeting LLM failure modes
 - [claude-eval-harness](https://github.com/0xelitesystem/claude-eval-harness), run a prompt against multiple Claude models
 - [readme-slop-checker](https://github.com/0xelitesystem/readme-slop-checker), audit a README for AI cliches
